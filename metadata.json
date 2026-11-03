@@ -1,0 +1,6 @@
+{
+  "name": "AI Healthcare Disease Predictor",
+  "description": "FastAPI backend and interactive testing suite for AI healthcare symptom disease prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
